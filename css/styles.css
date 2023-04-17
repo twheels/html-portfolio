@@ -1,0 +1,20 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-color: aquamarine;
+}
+
+div :hover {
+    background-color: gold;
+}
+
+h1 {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+
+p {
+    margin: 0;
+}
